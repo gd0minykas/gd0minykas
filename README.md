@@ -1,4 +1,11 @@
-## Hi there 👋
+## 🔭 Current tech stack:
+- .NET Core
+- Vue.js
+- Typescript
+- SQL
+
+## Trying to type faster:
+- https://monkeytype.com/profile/gd0minykas
 
 <!--
 **gd0minykas/gd0minykas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
